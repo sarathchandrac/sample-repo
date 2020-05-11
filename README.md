@@ -1,2 +1,2 @@
-# sample-repo
-sample repo for code base
+# Daily Practice examples
+mongo quries
